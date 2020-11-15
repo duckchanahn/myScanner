@@ -1,0 +1,4 @@
+data2/gangjwa1.txt
+data2/gangjwa2.txt
+data2/gangjwa3.txt
+data2/gangjwa4.txt
